@@ -1,4 +1,4 @@
-# Flutter-GetX-Boilerplate
+# Number Trivia using GetX
 
 A Flutter Clean Architecture Using [GetX](https://github.com/jonataslaw/getx).
 
