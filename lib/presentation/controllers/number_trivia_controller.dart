@@ -1,5 +1,5 @@
 import 'package:flutter_getx_number_trivia/app/core/error/failures.dart';
-import 'package:flutter_getx_number_trivia/app/core/usecases/usecase.dart';
+import 'package:flutter_getx_number_trivia/app/core/util/usecase_helper.dart';
 import 'package:flutter_getx_number_trivia/app/core/util/input_converter.dart';
 import 'package:flutter_getx_number_trivia/app/core/config/strings.dart';
 import 'package:flutter_getx_number_trivia/domain/entities/number_trivia.dart';
