@@ -1,7 +1,7 @@
 import 'package:flutter_getx_number_trivia/app/core/error/failures.dart';
-import 'package:flutter_getx_number_trivia/app/core/util/usecase_helper.dart';
-import 'package:flutter_getx_number_trivia/app/core/util/input_converter.dart';
-import 'package:flutter_getx_number_trivia/app/core/config/strings.dart';
+import 'package:flutter_getx_number_trivia/app/core/utils/usecase_helper.dart';
+import 'package:flutter_getx_number_trivia/app/core/utils/input_converter.dart';
+import 'package:flutter_getx_number_trivia/app/core/config/constants.dart';
 import 'package:flutter_getx_number_trivia/domain/entities/number_trivia.dart';
 import 'package:flutter_getx_number_trivia/domain/usecases/get_concrete_number_trivia.dart';
 import 'package:flutter_getx_number_trivia/domain/usecases/get_random_number_trivia.dart';

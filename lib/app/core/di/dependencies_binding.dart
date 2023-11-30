@@ -1,5 +1,5 @@
-import 'package:flutter_getx_number_trivia/app/core/network/network_info.dart';
-import 'package:flutter_getx_number_trivia/app/core/util/input_converter.dart';
+import 'package:flutter_getx_number_trivia/app/core/utils/network_info.dart';
+import 'package:flutter_getx_number_trivia/app/core/utils/input_converter.dart';
 import 'package:flutter_getx_number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:flutter_getx_number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:flutter_getx_number_trivia/data/repositories/number_trivia_repository_impl.dart';
