@@ -12,6 +12,9 @@ Future<void> main() async {
       title: "Getx - Number Trivia",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
+      theme: ThemeData(
+        useMaterial3: true,
+      ),
     ),
   );
 }
